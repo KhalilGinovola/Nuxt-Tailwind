@@ -1,0 +1,43 @@
+{
+  "shared": {
+    "done": "Done successfully",
+    "blogs": "Blogs",
+    "home": "Home"
+  },
+  "forms": {
+    "name": "Name",
+    "userName": "User Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "writeYourMessage": "Write Your Message ...",
+    "send": "Send",
+    "reason": "Reason"
+  },
+  "header": {
+    "downloadApp": "Download App now"
+  },
+  "footer": {
+    "getApp": "Get App now",
+    "hotLinks": "Hot Links",
+    "aboutRekab": "About Rekab",
+    "blogs": "Blogs",
+    "rightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy policy",
+    "termsAndConditions": "Terms and conditions",
+    "faqs": "FAQs"
+  },
+  "home": {
+    "doctor": "Doctor ",
+    "specialty": "Specialty",
+    "blogs": "Blogs",
+    "events": "medical consulting",
+    "calendar": "Calendar"
+  },
+  "contactUs": {
+    "complaint": "Complaint",
+    "suggest": "Suggest",
+    "review": "Review",
+    "question": "Question"
+  }
+}

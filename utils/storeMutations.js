@@ -1,0 +1,7 @@
+export const COMMON_REQUEST = "COMMON_REQUEST"
+export const COMMON_SUCCESS = "COMMON_SUCCESS"
+export const COMMON_ERROR = "COMMON_ERROR"
+export const SET_SOCIAL_LINKS = "SET_SOCIAL_LINKS"
+export const SET_SEO = "SET_SEO"
+export const CLEAR_STATUS = "CLEAR_STATUS"
+export const SET_HOME_BLOGS = "SET_HOME_BLOGS"

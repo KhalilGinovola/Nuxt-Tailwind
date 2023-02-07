@@ -1,0 +1,39 @@
+{
+  "shared": {
+    "done": "تم بنجاح",
+    "blogs": "مقالات",
+    "home": "الرئيسية"
+  },
+  "forms": {
+    "name": "الاسم",
+    "userName": "اسم المستخدم",
+    "email": "البريد الالكتروني",
+    "subject": "الموضوع",
+    "message": "الرسالة",
+    "writeYourMessage": "اكتب رسالتك...",
+    "send": "ارسال",
+    "reason": "السبب"
+  },
+  "header": {
+    "downloadApp": "حمل التطبيق الان"
+  },
+  "footer": {
+    "getApp": "احصل على التطبيق",
+    "hotLinks": "روابط سريعة",
+    "aboutRekab": "عن ريكاب",
+    "blogs": "مقالات",
+    "termsAndConditions": "الأحكام والشروط",
+    "faqs": "الأسئلة الشائعة"
+  },
+  "home": {
+    "blogs": "مقالات",
+    "events": "استشارات طبية",
+    "calendar": "التقويم"
+  },
+  "contactUs": {
+    "complaint": "شكوى",
+    "suggest": "اقتراح",
+    "review": "شهادة",
+    "question": "سؤال"
+  }
+}
